@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+  <NationalPark Rating="4.8">
+    <Name>Grand Canyon National Park</Name>
+    <Phone>928-638-7888</Phone>
+    <Address NearestAirport="Flagstaff Pulliam Airport">
+      <Number>20</Number>
+      <Street>South Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>Arizona</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.9">
+    <Name>Yellowstone National Park</Name>
+    <Phone>307-344-7381</Phone>
+    <Address>
+      <Number>2</Number>
+      <Street>Mammoth Hotel Street</Street>
+      <City>Yellowstone NP</City>
+      <State>Wyoming</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Yosemite National Park</Name>
+    <Address NearestAirport="Fresno Yosemite International">
+      <Number>9039</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite Village</City>
+      <State>California</State>
+      <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Zion National Park</Name>
+    <Phone>435-772-3256</Phone>
+    <Address NearestAirport="St. George Regional Airport">
+      <Number>1</Number>
+      <Street>Zion Park Blvd</Street>
+      <City>Springdale</City>
+      <State>Utah</State>
+      <Zip>84767</Zip>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Acadia National Park</Name>
+    <Name>Acadia Duplicate Name</Name>
+    <Phone>207-288-3338</Phone>
+    <Phone>207-288-8791</Phone>
+    <Address NearestAirport="Hancock County-Bar Harbor">
+      <Number>20</Number>
+      <Street>McFarland Hill Drive</Street>
+      <City>Bar Harbor</City>
+      <State>Maine</State>
+      <Zip>04609</Zip>
+    </Address>
+  </NationalPark>
+</NationalPark>
